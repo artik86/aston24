@@ -4,3 +4,4 @@ function sayHi()  {
 function goodBye() {
     alert("Пока");
 }
+
